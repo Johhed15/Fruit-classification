@@ -2,7 +2,7 @@
 
 The code is written in pythonon on kaggle!
 
-The model used to solve this problem is a CNNN model and i have utilized some of the tructure and weights from the VGG16 model to get 100 % accuracy on the test dataset!
+The model employed to solve this problem is a Convolutional Neural Network (CNN), which achieved 100% accuracy on the test dataset. To enhance its performance, I leveraged the architecture and pre-trained weights of the VGG16 model. By incorporating aspects of the VGG16 model, the CNN was able to achieve optimal results for the task!
 
 Comments are made in swedish as i did this on my spare time before my master.
 
