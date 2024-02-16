@@ -1,6 +1,6 @@
 # This repository contains a fruit classification problem solved with a CNN-model!
 
-The code is written in pythonon kaggle!
+The code is written in pythonon on kaggle!
 
 The model used to solve this problem is a CNNN model and i have utilized some of the tructure and weights from the VGG16 model to get 100 % accuracy on the test dataset!
 
